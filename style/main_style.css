@@ -134,3 +134,9 @@ input[type="submit"] {
     display: flex;
     justify-content: space-between;
 }
+
+.learn_btn {
+    font-size: 20px;
+    border-radius: 2px;
+    padding: 2px;
+}
