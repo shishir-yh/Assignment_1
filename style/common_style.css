@@ -29,3 +29,29 @@
     max-width: 477px;
 
 }
+
+.card_design {
+    margin: 40px;
+    border: 1px groove;
+    border-radius: 10px;
+    padding: 50px;
+
+}
+
+.html_bg {
+    background-color: rgba(255, 76, 30, 0.05);
+}
+
+.css_bg {
+    background-color: rgba(0, 76, 232, 0.05);
+}
+
+.js_bg {
+    background-color: rgba(255, 223, 0, 0.05);
+}
+
+.learn_a {
+    color: black;
+    font-size: large;
+
+}

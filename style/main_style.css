@@ -58,3 +58,17 @@ iframe {
 .my_ins {
     background-color: white;
 }
+
+.my_target_art {
+    text-align: center;
+}
+
+.my_target_container {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.card_img {
+    margin-bottom: 10px;
+}
