@@ -70,7 +70,7 @@ iframe {
 }
 
 .need_support {
-    background-image: url("/images/handshake.jpg");
+    background-image: url("./images/handshake.jpg");
     text-align: center;
     padding-top: 64px;
     padding-bottom: 64px;
@@ -119,25 +119,27 @@ input[type="submit"] {
 
 .raw_1_display {
     display: flex;
-    justify-content: space-between;
+    gap: 560px;
 }
 
 .raw_1 {
     background-color: white;
-    border: 1px solid black;
+    border: 1px solid groove;
     border-radius: 15px;
     margin-top: 40px;
     margin-bottom: 20px;
+    padding-left: 20px;
+    padding-top: 30px;
 }
 
 .raw_2_display {
     display: flex;
-    gap: 10px;
+    gap: 40px;
 }
 
 .raw_3_display {
     display: flex;
-    justify-content: space-between;
+    gap: 560px;
 }
 
 .learn_btn {
