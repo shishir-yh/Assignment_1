@@ -18,11 +18,7 @@
     font-weight: 800px;
 }
 
-.my-wish {
-    display: flex;
-    justify-content: space-between;
-    padding: 50px;
-}
+.my-wish {}
 
 /* .part-2 {
     margin: 48px;
@@ -102,4 +98,39 @@ input[type="submit"] {
     font-size: 20px;
     font-weight: bold;
     border-radius: 15px;
+}
+
+
+.web_dev {
+    margin: 74px 152px 90px 148px;
+    background-color: whitesmoke;
+    padding-bottom: 15px;
+
+}
+
+.web_child {
+    margin: 97px 80px;
+}
+
+.raw_1_display {
+    display: flex;
+    justify-content: space-between;
+}
+
+.raw_1 {
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 15px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.raw_2_display {
+    display: flex;
+    gap: 10px;
+}
+
+.raw_3_display {
+    display: flex;
+    justify-content: space-between;
 }

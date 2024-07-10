@@ -18,6 +18,9 @@
     margin-left: 97px;
     background-color: white;
     border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
 }
 
 .pg-image {
@@ -53,4 +56,27 @@
 .learn_a {
     color: black;
     font-size: large;
+}
+
+article.my-wish_3 {
+    display: flex;
+    justify-content: flex-start;
+    margin-right: 97px;
+    margin-bottom: 32px;
+    margin-left: 14px;
+    background-color: white;
+    border-radius: 5px;
+    padding: none;
+}
+
+learn_btn {
+
+    font-size: 30px;
+    font-weight: bold;
+}
+
+common_card {}
+
+c_1 {
+    display: flex;
 }
