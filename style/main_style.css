@@ -1,0 +1,60 @@
+.imp_dev {
+    background-color: whitesmoke;
+    margin: 74px 148px 90px 153px;
+    border-width: 10px;
+    /* text-align: center; */
+    border-radius: 10px;
+
+
+}
+
+.part-1 {
+    padding: 80px 150px 60px 150px;
+    text-align: center;
+}
+
+.part-1-headline {
+    font-size: 35px;
+    font-weight: 800px;
+}
+
+.my-wish {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+}
+
+/* .part-2 {
+    margin: 48px;
+} */
+
+/* .article div {} */
+
+.my_ins_art {
+    text-align: center;
+    background-color: white;
+}
+
+.my_ins_pg {}
+
+.video_contain {
+    margin: 48px 45px;
+    border: 1px groove;
+    border-radius: 10px;
+    padding: 22px;
+    text-align: center;
+
+
+}
+
+iframe {
+    border-radius: 15px;
+}
+
+.my-wish {
+    width: 1340;
+}
+
+.my_ins {
+    background-color: white;
+}
