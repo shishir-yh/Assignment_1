@@ -72,3 +72,34 @@ iframe {
 .card_img {
     margin-bottom: 10px;
 }
+
+.need_support {
+    background-image: url("/images/handshake.jpg");
+    text-align: center;
+    padding-top: 64px;
+    padding-bottom: 64px;
+}
+
+section.need_support h2 {
+    color: white;
+}
+
+section.need_support p {
+    color: white;
+}
+
+input[type="search"] {
+    height: 56px;
+    width: 550px;
+    font-size: 20px;
+    border-radius: 15px;
+    margin-right: 10px;
+}
+
+input[type="submit"] {
+    height: 56px;
+    width: 100px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 15px;
+}
