@@ -100,11 +100,16 @@ input[type="submit"] {
     border-radius: 15px;
 }
 
+.description {
+    text-align: center;
+}
+
 
 .web_dev {
     margin: 74px 152px 90px 148px;
     background-color: whitesmoke;
     padding-bottom: 15px;
+    border-radius: 20px;
 
 }
 
