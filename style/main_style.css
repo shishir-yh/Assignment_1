@@ -70,7 +70,7 @@ iframe {
 }
 
 .need_support {
-    background-image: url("./images/handshake.jpg");
+    background-image: url("/images/handshake.jpg");
     text-align: center;
     padding-top: 64px;
     padding-bottom: 64px;
