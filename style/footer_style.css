@@ -1,0 +1,15 @@
+footer {
+    background-color: whitesmoke;
+    padding: 40px 150px;
+    display: flex;
+    justify-content: space-between;
+}
+
+footer h4 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+footer a {
+    margin-right: 20px;
+}
